@@ -8,6 +8,6 @@ return a+b;
 
 int main()
 {
-    printf("%d \n",addition(1,4));
+    printf("pc masterace %d \n",addition(1,4));
     return 0;
 }
